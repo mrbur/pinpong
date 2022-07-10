@@ -1,0 +1,8 @@
+Intermediate/*
+Binaries
+DerivedDataCache
+.vs
+*.sln
+*.log
+Content/StarterContent
+Saved
